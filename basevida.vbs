@@ -1,5 +1,3 @@
-On Error Resume Next
-
 Const ftyyer5ke5r222 = 8
 Private Function sfvbn45je4(ctetext)
     Const ths5tsty56 = 10
