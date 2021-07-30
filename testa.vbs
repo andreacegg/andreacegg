@@ -1,5 +1,3 @@
-On Error Resume Next
-
 Const o2kSwS = 8
 Private Function oPl2oKmna(k5wR845g)
     Const m97bV6 = 10
